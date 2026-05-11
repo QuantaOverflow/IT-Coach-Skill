@@ -1,0 +1,10 @@
+.DS_Store
+**/.DS_Store
+*.skill
+__pycache__/
+*.pyc
+.env
+
+# 研究素材（已提炼进 references/，不随 plugin 发布）
+research.md
+IT*.md
