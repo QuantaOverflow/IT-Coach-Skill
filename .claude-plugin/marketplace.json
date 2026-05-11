@@ -1,0 +1,26 @@
+{
+  "name": "IT-Coach-Skill",
+  "owner": {
+    "name": "QuantaOverflow"
+  },
+  "metadata": {
+    "description": "IT求职辅导技能包：面向低学历/转行/gap/培训班出身求职者的完整求职工具",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "it-training",
+      "description": "IT培训求职辅导体系：帮助低学历、转行、gap等弱势背景求职者突破筛选机制，获得IT行业offer",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./plugins/it-training/skills/it-router",
+        "./plugins/it-training/skills/it-diagnose",
+        "./plugins/it-training/skills/it-resume",
+        "./plugins/it-training/skills/it-apply",
+        "./plugins/it-training/skills/it-interview",
+        "./plugins/it-training/skills/it-negotiate"
+      ]
+    }
+  ]
+}
