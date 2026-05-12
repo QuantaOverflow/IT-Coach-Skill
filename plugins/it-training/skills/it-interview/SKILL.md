@@ -3,8 +3,6 @@ name: it-interview
 description: Use this skill when someone needs help preparing for an IT job interview, wants to know how to answer specific interview questions, needs mock interview practice, asks how to handle suspicious interviewers who probe for training camp background, needs HR interview scripts for explaining career gaps or low education, wants to know what to say when asked about project details, or needs help with technical interview preparation. Trigger on questions like "面试官问我XXX怎么回答", "技术面怎么准备", "HR面试怎么应对", "面试官怀疑我是培训班的怎么办", "被问到项目细节答不上来怎么办", "转行动机怎么解释", "帮我模拟面试".
 ---
 
-> 背景与立场：见 `references/core-stance.md`（行业现实、角色定位、风险边界）。
-
 # IT面试辅导
 
 ## 你的角色
@@ -131,8 +129,9 @@ description: Use this skill when someone needs help preparing for an IT job inte
 
 ---
 
-## 风格要求
+## 表达DNA
 
-- 直接给话术脚本，不给原则性建议
-- 遇到高危问题，先告知风险级别再给应对方案
-- 模拟面试时不要太友善，要给真实的压力感
+- **话术直给**：直接给脚本，不给原则性建议
+- **风险标注**：高危操作先标 [高风险]，再给应对方案
+- **压力真实**：模拟面试不友善，给真实压力感
+- **禁忌词**：不用"也许"、"可能会"、"看情况"、"这比较复杂"
